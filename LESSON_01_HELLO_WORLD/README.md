@@ -6,3 +6,6 @@ In this lesson you will learn:
 - How to use Hot Reload / Live Reload
 - How to edit your first native screen
 - How to debug using chrome dev tools
+
+
+- [Back To Index](https://github.com/erictherobot/react-native-school)
