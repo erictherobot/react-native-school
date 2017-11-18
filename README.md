@@ -1,4 +1,4 @@
-# react-native-school
+# React Native School
 
 Hey, I'm Eric and I'd like to help you learn how to build Native  IOS & Android Apps using React Native.
 
@@ -11,6 +11,7 @@ Whether you're just starting out programming or whether you've been working as a
 - Read the code comments in each file.
 
 ### Use at your own risk
+
 Please be advised that I am not an expert in anything. These examples are "how I do things" and may not always be the best practices. If you get stuck on anything, please reach out to me on [twitter.com/erictherobot](https://twitter.com/erictherobot) or create a new issue and or pull request.
 
 ### Lessons
